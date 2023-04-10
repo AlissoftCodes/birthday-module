@@ -18,7 +18,7 @@ Examples:
 # Let's see how many days from that date until the current date.
 >>>get_days(27, 9, 1984)
 >>>14075
-# And we had the integet value of 14075 as the output.
+# And we had the integer value of 14075 as the output.
 # In order to see all the available functions and their descriptions, you can import the module and run the command help(birthday_module).
 
 # Source: https://github.com/AlissoftCodes/birthday-module
