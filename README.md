@@ -1,4 +1,4 @@
-# birthday-module
+# Birthday-Module
 This is a simple Python module to help dealing with birthdate-based calculations.
 
 
