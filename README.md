@@ -21,4 +21,4 @@ Examples:
 # And we had the integer value of 14075 as the output.
 # In order to see all the available functions and their descriptions, you can import the module and run the command help(birthday_module).
 
-# Source: https://github.com/AlissoftCodes/birthday-module
+# Source: https://github.com/AlissonFaoli/birthday-module
